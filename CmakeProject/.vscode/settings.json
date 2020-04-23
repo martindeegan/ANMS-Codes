@@ -1,0 +1,6 @@
+{
+    "clangd.path": "/usr/bin/clangd-9",
+    "clangd.arguments": [
+        "--compile-commands-dir=/home/martin/projects/ANMS-Codes/CmakeProject/build"
+    ]
+}
